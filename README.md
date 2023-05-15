@@ -1,5 +1,6 @@
 ### hey there 
-My name is Francisco, im currently doing a Ctesp.
+My name is Francisco, im currently doing a Ctesp in IPT(Instituto Politécnico de Tomar).
+1st year.
 
 
 **languages and tools that im currently learning or have learned:**  
