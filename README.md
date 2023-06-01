@@ -19,7 +19,7 @@ My name is Francisco, im currently doing a Ctesp in IPT(Instituto Politécnico d
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Exill18&show_icons=true&theme=nightowl" alt="Exill18" />
+[![Exill18's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
   
   
