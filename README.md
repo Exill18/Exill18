@@ -1,6 +1,5 @@
 ### hey there 
-My name is Francisco, im currently doing a Ctesp in IPT(Instituto Politécnico de Tomar).
-1st year.
+My name is Francisco.
 
 
 **languages and tools that have learned:**  
@@ -14,7 +13,7 @@ My name is Francisco, im currently doing a Ctesp in IPT(Instituto Politécnico d
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 
 
 
