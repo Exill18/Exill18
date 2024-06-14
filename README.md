@@ -1,6 +1,7 @@
 ### hey there 
 My name is Francisco.
 
+[![](https://visitcount.itsvg.in/api?id=Exill18&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ** tech im currently focusing **
 
