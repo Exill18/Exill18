@@ -7,7 +7,7 @@
 **Tech I'm currently focusing on:**
 <p>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,htmx,js,tailwind,laravel" />
+        <img src="https://skillicons.dev/icons?i=html,htmx,js,tailwind,laravel,py" />
     </a>
 </p>
 
