@@ -2,8 +2,7 @@
     
 ### Hey there, I'm Francisco.
 
-[![](https://visitcount.itsvg.in/api?id=Exill18&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=Exill18&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 **Tech I'm currently focusing on:**
 <p>
     <a href="https://skillicons.dev">
