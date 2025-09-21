@@ -149,11 +149,6 @@ drwxr-xr-x 24 exill18 dev  4096 Sep 21 19:51 ..
 </div>
 
 
-<!-- Animated Snake Game -->
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
 
 <!-- Matrix Code Rain Effect -->
 <div align="center">
