@@ -1,56 +1,5 @@
 <div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #0d1117 100%); min-height: 100vh; padding: 20px; color: #ffffff;">
 
-<!-- Dark Theme Styles -->
-<style>
-  body, .markdown-body {
-    background-color: #0d1117 !important;
-    background-image: 
-      radial-gradient(circle at 25% 25%, #00f7ff11 0%, transparent 50%),
-      radial-gradient(circle at 75% 75%, #ff6b6b11 0%, transparent 50%);
-    color: #ffffff !important;
-  }
-  
-  h1, h2, h3, h4, h5, h6 {
-    color: #00f7ff !important;
-    text-shadow: 0 0 10px #00f7ff33;
-  }
-  
-  p, li, td, th, code, pre {
-    color: #ffffff !important;
-  }
-  
-  pre {
-    background-color: #161b22 !important;
-    border: 1px solid #00f7ff33 !important;
-    border-radius: 8px;
-    box-shadow: 0 0 15px #00f7ff11;
-  }
-  
-  table {
-    background-color: #161b2280 !important;
-    border-radius: 10px;
-    backdrop-filter: blur(10px);
-  }
-  
-  td, th {
-    border-color: #00f7ff33 !important;
-  }
-  
-  details {
-    background-color: #161b22 !important;
-    border: 1px solid #00f7ff33 !important;
-    border-radius: 8px;
-    box-shadow: 0 0 15px #00f7ff11;
-  }
-  
-  summary {
-    color: #00f7ff !important;
-    background-color: #0d1117 !important;
-    padding: 10px;
-    border-radius: 8px 8px 0 0;
-  }
-</style>
-
 <!-- Cyberpunk Header -->
 <img width="100%" height="2" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
