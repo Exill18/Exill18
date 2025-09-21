@@ -112,7 +112,7 @@ Exill18@github:~$ ./system_status.sh
 │  🔹 Name: Exill18                                           │
 │  🔹 Role: Developer                                         │
 │  🔹 Location: /home/matrix/reality.exe                      │
-│  🔹 Status: Finishing CS                                    │
+│  🔹 Status: Working on completing EI in IPT                 │
 ╰─────────────────────────────────────────────────────────────╯
 
 
