@@ -18,7 +18,7 @@
         <tr>
             <td><b>⚡ Languages</b></td>
             <td>
-                <img src="https://skillicons.dev/icons?i=py,js,java,html,css" />
+                <img src="https://skillicons.dev/icons?i=py,php,js,html,css" />
             </td>
         </tr>
         <tr>
